@@ -25,7 +25,7 @@
                         <string>http://58.213.129.233:8080/oa/ios/phone/icon.png</string>
                     </dict>
                     
-                    <!-- full-size-image: the large 512×512 icon used by iTunes. -->
+                    <!-- full-size-image: the large 512×512 icon used by iTunes.  -->
                     <dict>
                         <key>kind</key>
                         <string>full-size-image</string>
